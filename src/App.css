@@ -1,4 +1,4 @@
-#App {
+.App {
   width: 200px;
   height: 200px;
   border-radius: 50%;
@@ -15,7 +15,7 @@
   cursor: pointer;
 }
 
-#App:active {
+.App:active {
   margin-top: 60px;
   box-shadow: 0 5px 0 darkred;
   opacity: 0.9;

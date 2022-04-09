@@ -14,7 +14,7 @@ export const App = () => {
   }
 
   return (
-    <div id="App" onClick={onClickButton}>
+    <div class="App" onClick={onClickButton}>
       {result}
     </div>
   );
